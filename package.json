@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/stats-base-dists-hypergeometric-logpmf",
+  "version": "0.0.0",
+  "description": "Natural logarithm of the probability mass function (PMF) for a hypergeometric distribution.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-hypergeometric-logpmf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "probability",
+    "pmf",
+    "logpmf",
+    "logarithm",
+    "log",
+    "ln",
+    "natural",
+    "hypergeometric",
+    "univariate",
+    "discrete"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}

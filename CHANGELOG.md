@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-02)
+## Unreleased (2025-03-04)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3661](https://github.com/stdlib-js/stdlib/issues/3661)
+[#3661](https://github.com/stdlib-js/stdlib/issues/3661), [#5747](https://github.com/stdlib-js/stdlib/issues/5747)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`1ea2bdf`](https://github.com/stdlib-js/stdlib/commit/1ea2bdf027c1ea53e90a823ab9a7f3404256a9e6) - **chore:** address commit comments [(#5757)](https://github.com/stdlib-js/stdlib/pull/5757) _(by Jalaj Kumar)_
 -   [`11e8a56`](https://github.com/stdlib-js/stdlib/commit/11e8a560e234be46e49d0df96325da7b1cf36f8d) - **feat(stats):** add C implementation for `stats/base/dists/hypergeometric/logpmf` [(#4575)](https://github.com/stdlib-js/stdlib/pull/4575) _(by Karan Anand)_
 -   [`b9bddfe`](https://github.com/stdlib-js/stdlib/commit/b9bddfefbcc4f301f5a63c9de30b2c11b13a989f) - **bench:** refactor random number generation in `stats/base/dists/hypergeometric` [(#4955)](https://github.com/stdlib-js/stdlib/pull/4955) _(by Karan Anand)_
 -   [`41d41e9`](https://github.com/stdlib-js/stdlib/commit/41d41e959b4eaad3c631e6898e3144a4015a5458) - **test:** include trailing newlines in Julia-generated JSON fixtures _(by Philipp Burckhardt)_
@@ -49,8 +50,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Jalaj Kumar
 -   Karan Anand
 -   Philipp Burckhardt
 

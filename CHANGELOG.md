@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-04-14)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`1ea2bdf`](https://github.com/stdlib-js/stdlib/commit/1ea2bdf027c1ea53e90a823ab9a7f3404256a9e6) - **chore:** address commit comments [(#5757)](https://github.com/stdlib-js/stdlib/pull/5757) _(by Jalaj Kumar)_
 -   [`11e8a56`](https://github.com/stdlib-js/stdlib/commit/11e8a560e234be46e49d0df96325da7b1cf36f8d) - **feat(stats):** add C implementation for `stats/base/dists/hypergeometric/logpmf` [(#4575)](https://github.com/stdlib-js/stdlib/pull/4575) _(by Karan Anand)_
 -   [`b9bddfe`](https://github.com/stdlib-js/stdlib/commit/b9bddfefbcc4f301f5a63c9de30b2c11b13a989f) - **bench:** refactor random number generation in `stats/base/dists/hypergeometric` [(#4955)](https://github.com/stdlib-js/stdlib/pull/4955) _(by Karan Anand)_

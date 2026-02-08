@@ -63,13 +63,13 @@ f(x;N,K,n)=P(X=x;N,K,n)=\begin{cases} {{{K \choose x} {N-K \choose {n-x}}}\over 
 ## Usage
 
 ```javascript
-import logpmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-hypergeometric-logpmf@deno/mod.js';
+import logpmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-hypergeometric-logpmf@v0.1.3-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-hypergeometric-logpmf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-hypergeometric-logpmf@v0.1.3-deno/mod.js';
 ```
 
 #### logpmf( x, N, K, n )
@@ -155,7 +155,7 @@ y = mylogpmf( 1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import logpmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-hypergeometric-logpmf@deno/mod.js';
+import logpmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-hypergeometric-logpmf@v0.1.3-deno/mod.js';
 
 var i;
 var N;

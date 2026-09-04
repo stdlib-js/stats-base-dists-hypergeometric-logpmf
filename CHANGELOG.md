@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-02)
+## Unreleased (2026-09-04)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`810e5f5`](https://github.com/stdlib-js/stdlib/commit/810e5f59051741b68f46e640f7db56103283f067) - avoid integer overflow [(#14972)](https://github.com/stdlib-js/stdlib/pull/14972)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`810e5f5`](https://github.com/stdlib-js/stdlib/commit/810e5f59051741b68f46e640f7db56103283f067) - **fix:** avoid integer overflow [(#14972)](https://github.com/stdlib-js/stdlib/pull/14972) _(by Philipp Burckhardt)_
 -   [`77a562a`](https://github.com/stdlib-js/stdlib/commit/77a562af730f04df4f25308c21fca66cb994b65a) - **bench:** refactor to use string interpolation in `stats/base/dists/hypergeometric` [(#10390)](https://github.com/stdlib-js/stdlib/pull/10390) _(by Vishal Gaikwad)_
 
 </details>
@@ -24,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
 -   Vishal Gaikwad
 
 </section>

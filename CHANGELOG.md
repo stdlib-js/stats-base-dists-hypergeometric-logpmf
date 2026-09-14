@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-04)
+## Unreleased (2026-09-14)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5d0caf9`](https://github.com/stdlib-js/stdlib/commit/5d0caf9da325c04cf62b73e830287e9cc7c7c057) - **test:** migrate `stats/base/dists/hypergeometric/logpmf` to ULP-based assertions [(#15226)](https://github.com/stdlib-js/stdlib/pull/15226) _(by Philipp Burckhardt)_
 -   [`810e5f5`](https://github.com/stdlib-js/stdlib/commit/810e5f59051741b68f46e640f7db56103283f067) - **fix:** avoid integer overflow [(#14972)](https://github.com/stdlib-js/stdlib/pull/14972) _(by Philipp Burckhardt)_
 -   [`77a562a`](https://github.com/stdlib-js/stdlib/commit/77a562af730f04df4f25308c21fca66cb994b65a) - **bench:** refactor to use string interpolation in `stats/base/dists/hypergeometric` [(#10390)](https://github.com/stdlib-js/stdlib/pull/10390) _(by Vishal Gaikwad)_
 
